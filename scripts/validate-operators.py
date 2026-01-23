@@ -20,8 +20,8 @@ for chunk in sections[1:]:
     operators.append((title_line, body))
 
 errors = []
-if len(operators) < 8:
-    errors.append(f"expected >=8 operators, found {len(operators)}")
+if len(operators) < 12:
+    errors.append(f"expected >=12 operators, found {len(operators)}")
 
 required_fields = [
     "**Definition**:",

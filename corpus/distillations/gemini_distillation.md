@@ -5,6 +5,7 @@
 - **Witnesses matter**: Independent “read and understood” signatures turn notes into evidence (§11, §12, §19, §24).
 - **Buildability is part of the idea**: Materials and processes must be specified (§20, §22, §14).
 - **Control disclosure**: Log who saw what and under what terms (§13, §16, §1).
+- **Partner outreach is required**: Visits and follow-ups drive commercialization (§1, §9, §17, §220).
 
 ## Operators (8-15)
 
@@ -62,12 +63,32 @@
 - **Failure modes**: Isolated notes, weak lineage.
 - **Anchors**: §4, §12
 
+#### 🤝 Partner-Engagement
+- **Definition**: Visit/show work to manufacturers or partners.
+- **Triggers**: Need validation; licensing outreach; quote/sample requests.
+- **Failure modes**: No outreach; no actionable outcomes.
+- **Anchors**: §1, §9, §17
+
+#### 📞 Follow-Up-Log
+- **Definition**: Track callbacks, agreements, and pending responses.
+- **Triggers**: After meetings; promised signatures; pending decisions.
+- **Failure modes**: Stalled deals; unclear next steps.
+- **Anchors**: §10, §16, §220
+
+#### 🧪 Sample-Sourcing
+- **Definition**: Acquire materials/samples to test feasibility.
+- **Triggers**: Material uncertainty; partner offers sample.
+- **Failure modes**: Untested assumptions; unused samples.
+- **Anchors**: §17, §118, §269
+
 ## Anti-Patterns (5-10)
 - Undated/unwitnessed notes → weak priority.
 - Disclosure without logging → IP leakage.
 - No manufacturing method → unbuildable idea.
 - Single-embodiment focus → narrow claims.
 - Experiments without records → lost knowledge.
+- No follow-up discipline → stalled partner outcomes.
+- No sample validation → ungrounded feasibility.
 
 ## Terminology (15-30)
 | Term | Short Definition | Full Explanation |

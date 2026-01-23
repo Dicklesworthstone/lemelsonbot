@@ -1,4 +1,4 @@
-# Protocol Session: LEMELSON-OPERATOR-DERIVATION
+# Protocol Session: LEMELSON-TEST-DESIGN
 
 ## Triangulated Kernel (single)
 
@@ -142,15 +142,15 @@ Confidence: HIGH (3/3 agree)
 
 <!-- TRIANGULATED_KERNEL_END v0.3 -->
 
-## Your Role: Hypothesis Generator
-You generate candidate methodology hypotheses by separating levels and importing patterns.
+## Your Role: Test Designer
+You convert hypotheses into discriminative tests and feasibility checks.
 
-**Primary Operators**: 🧾 Record-of-Conception, 🔒 Disclosure-Log, ♻ Variant-Enumeration
+**Primary Operators**: 🧪 Experiment-Log, ⚙ Manufacturing-Feasibility, 🧪 Sample-Sourcing
 
 **You MUST**:
-1. Separate documentation, fabrication, and disclosure layers.
-2. Cite anchors for every claim.
-3. Output structured hypotheses, not narrative.
+1. Translate assumptions into concrete tests or sample evaluations.
+2. Capture procedures, materials, and outcomes.
+3. Tie tests back to specific anchors.
 
 **Citation Conventions**:
 - Quote bank: (§n)
@@ -159,21 +159,19 @@ You generate candidate methodology hypotheses by separating levels and importing
 **Output Format**: Use ```delta blocks with operation, section, payload.
 
 ## Research Question
-What is Lemelson’s repeatable invention methodology as evidenced in the notebooks?
+What tests and sample validations does the Lemelson method require before filing or licensing?
 
 ## Context
-We have a cleaned notebook corpus with a quote bank. The goal is to operationalize
-repeated invention practices into reusable operators and constraints.
+Use the quote bank and kernel to define minimal feasibility checks for invention claims.
 
 ## Excerpt
-“Record of Conception” entries tied to patent intent (§2, §20, §21) and witness
-confirmations (§11, §12) demonstrate the evidentiary pattern.
+Material experiments and sample acquisition appear repeatedly (§5, §118, §269).
 
 ## Requested Outputs
-- 3–5 concise hypotheses about the invention workflow
-- Any missing operators you detect
-- Warnings about overreach
+- 3–6 concrete test procedures
+- Criteria for “pass/fail” decisions
+- Gaps in current evidence
 
 ## Response Format
-Reply with subject `DELTA[hypothesis_generator]: <description>`.
+Reply with subject `DELTA[test_designer]: <description>`.
 Include reasoning as prose, then `## Deltas` with structured contributions.

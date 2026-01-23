@@ -1,4 +1,4 @@
-# Protocol Session: LEMELSON-OPERATOR-DERIVATION
+# Protocol Session: LEMELSON-ADVERSARIAL
 
 ## Triangulated Kernel (single)
 
@@ -142,15 +142,15 @@ Confidence: HIGH (3/3 agree)
 
 <!-- TRIANGULATED_KERNEL_END v0.3 -->
 
-## Your Role: Hypothesis Generator
-You generate candidate methodology hypotheses by separating levels and importing patterns.
+## Your Role: Adversarial Critic
+You attack gaps in documentation, feasibility, and disclosure discipline.
 
-**Primary Operators**: 🧾 Record-of-Conception, 🔒 Disclosure-Log, ♻ Variant-Enumeration
+**Primary Operators**: 🧾 Record-of-Conception, 🔒 Disclosure-Log, 📞 Follow-Up-Log
 
 **You MUST**:
-1. Separate documentation, fabrication, and disclosure layers.
-2. Cite anchors for every claim.
-3. Output structured hypotheses, not narrative.
+1. Identify missing dates, witnesses, or scope statements.
+2. Flag unlogged disclosures or weak confidentiality conditions.
+3. Call out missing follow-ups or sample validations.
 
 **Citation Conventions**:
 - Quote bank: (§n)
@@ -159,21 +159,19 @@ You generate candidate methodology hypotheses by separating levels and importing
 **Output Format**: Use ```delta blocks with operation, section, payload.
 
 ## Research Question
-What is Lemelson’s repeatable invention methodology as evidenced in the notebooks?
+Where does the Lemelson method fail if documentation or follow-up discipline slips?
 
 ## Context
-We have a cleaned notebook corpus with a quote bank. The goal is to operationalize
-repeated invention practices into reusable operators and constraints.
+Use anti-patterns and quote evidence to identify risks and gaps.
 
 ## Excerpt
-“Record of Conception” entries tied to patent intent (§2, §20, §21) and witness
-confirmations (§11, §12) demonstrate the evidentiary pattern.
+Follow-up lapses and unsigned agreements recur (§10, §16).
 
 ## Requested Outputs
-- 3–5 concise hypotheses about the invention workflow
-- Any missing operators you detect
-- Warnings about overreach
+- 5–8 adversarial critiques
+- Specific failure modes and consequences
+- Suggestions to harden the process
 
 ## Response Format
-Reply with subject `DELTA[hypothesis_generator]: <description>`.
+Reply with subject `DELTA[adversarial_critic]: <description>`.
 Include reasoning as prose, then `## Deltas` with structured contributions.

@@ -20,6 +20,9 @@
 - **EV-017**: §107/§109/§111 — Logged disclosures to manufacturers/partners (Vol 15 Page 271; Vol 13 Page 4; Vol A Page 40)
 - **EV-018**: §110/§117 — Manufacturing methods/materials notes (Vol 10 Page 152; Vol 13 Page 61)
 - **EV-019**: §120 — Continuation/extension of prior filings (Vol 13, Page 105)
+- **EV-020**: §1/§9/§17 — Partner visits and demonstrations (Vol A Page 80; Vol 2 Page 21; Vol 5 Page 58)
+- **EV-021**: §10/§16/§220 — Follow-up and agreement tracking (Vol 2 Page 57; Vol 3 Page 59; Vol 10 Page 260)
+- **EV-022**: §118/§269 — Sample acquisition for materials/components (Vol 10 Page 137; Vol 15 Page 319)
 
 ## Operator → Evidence Mapping
 | Operator | Evidence Nodes | Notes |
@@ -33,6 +36,9 @@
 | 🧪 Experiment-Log | EV-014 | Experiments and tests documented.
 | 🧩 Prototype-Build | EV-011, EV-012 | Models used for validation/outreach.
 | § Patent-Link | EV-010, EV-005 | Applications/exhibits cross-referenced.
+| 🤝 Partner-Engagement | EV-020 | Visits and demonstrations to partners.
+| 📞 Follow-Up-Log | EV-021 | Tracking commitments and callbacks.
+| 🧪 Sample-Sourcing | EV-022 | Acquiring samples to validate feasibility.
 
 ## Axiom → Evidence Mapping
 | Axiom | Evidence Nodes |
@@ -41,3 +47,4 @@
 | Buildability Is Part of the Idea | EV-008, EV-009, EV-018 |
 | Disclosure Is Controlled and Logged | EV-011, EV-012, EV-013, EV-017 |
 | Claim Scope Expands Through Variants | EV-015, EV-019 |
+| Partner Engagement Is Part of the Method | EV-020, EV-021 |

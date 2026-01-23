@@ -136,4 +136,31 @@
   why: Experiments are documented in the notebooks (§5, §8).
   related: ["Manufacturing Feasibility", "Record of Conception"]
   category: methodology
+
+- term: Partner Engagement
+  short: Structured outreach to manufacturers or partners.
+  long: Visiting companies, showing models, and discussing next steps to move an idea forward.
+    It is a deliberate phase of invention, not an afterthought.
+  analogy: Customer discovery for inventions.
+  why: Lemelson repeatedly visits and demonstrates to companies (§1, §9, §17).
+  related: ["Disclosure Log", "Follow-Up Log", "Prototype"]
+  category: methodology
+
+- term: Follow-Up Log
+  short: Tracking callbacks and promised actions.
+  long: A running record of commitments, pending signatures, and next steps with partners.
+    It prevents outreach from stalling after initial interest.
+  analogy: A sales CRM for inventions.
+  why: Entries note repeated callbacks and unsigned agreements (§10, §16, §220).
+  related: ["Partner Engagement", "Disclosure Log"]
+  category: methodology
+
+- term: Sample Sourcing
+  short: Requesting or obtaining materials and sample parts.
+  long: Acquiring samples for evaluation of materials, processes, or prototype feasibility.
+    Samples are logged with purpose and next test steps.
+  analogy: Ordering test ingredients before scaling a recipe.
+  why: Notes include sample acquisition and use (§17, §118, §269).
+  related: ["Manufacturing Feasibility", "Experiment Log"]
+  category: methodology
 ```

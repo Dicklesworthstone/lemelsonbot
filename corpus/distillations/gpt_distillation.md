@@ -13,6 +13,10 @@
   - Evidence: Notes about who was shown models and explicit confidentiality/agreements (§1, §13, §16).
   - Implication: Collaboration and commercialization require a disclosure log.
 
+- **Commercialization Requires Partner Engagement**: Progress depends on visiting, showing, and negotiating with manufacturers and partners.
+  - Evidence: Repeated visits, demonstrations, and follow-ups with companies (§1, §9, §17, §33, §220).
+  - Implication: Idea development includes outreach loops, not just technical refinement.
+
 - **Iterate by Variants**: A single idea spawns multiple embodiments and variations.
   - Evidence: "improvements and variations" and multi-figure references (§7, §14).
   - Implication: For each concept, enumerate variations to expand claim scope.
@@ -66,6 +70,42 @@
   - Prototype without documentation → lost learnings.
 - **Quote anchors**: §1, §6, §17
 - **Related operators**: ⚙ Manufacturing-Feasibility
+
+#### 🤝 Partner-Engagement
+- **Definition**: Actively engage manufacturers/partners via visits and demonstrations.
+- **When to use**:
+  - When feasibility or market fit needs external validation.
+  - When seeking manufacturing or licensing partners.
+  - When preparing to negotiate samples or quotes.
+- **Failure modes**:
+  - No partner outreach → stalled commercialization.
+  - Unstructured visits → lost opportunities.
+- **Quote anchors**: §1, §9, §17
+- **Related operators**: 🔒 Disclosure-Log, 📞 Follow-Up-Log
+
+#### 📞 Follow-Up-Log
+- **Definition**: Track callbacks, agreements, and pending responses in partner conversations.
+- **When to use**:
+  - After initial meetings or calls.
+  - When agreements are promised but not delivered.
+  - When follow-up is required to close licensing or sample requests.
+- **Failure modes**:
+  - No follow-up record → stalled deals.
+  - Missing commitments → unclear next steps.
+- **Quote anchors**: §10, §16, §220
+- **Related operators**: 🤝 Partner-Engagement
+
+#### 🧪 Sample-Sourcing
+- **Definition**: Acquire material or prototype samples to validate feasibility.
+- **When to use**:
+  - When material properties are uncertain.
+  - When a manufacturer offers a sample part.
+  - When testing a new fabrication method.
+- **Failure modes**:
+  - No samples → untested assumptions.
+  - Samples without evaluation → wasted time.
+- **Quote anchors**: §17, §118, §269
+- **Related operators**: 🧪 Experiment-Log, ⚙ Manufacturing-Feasibility
 
 #### ⚙ Manufacturing-Feasibility
 - **Definition**: Specify materials, processes, and fabrication methods in the concept itself.
@@ -133,6 +173,8 @@
 - **No manufacturing method**: Ideas divorced from buildability (contra §20, §22).
 - **Single-embodiment tunnel vision**: Missed claim breadth (contra §7, §14).
 - **Prototype-only without documentation**: Unrepeatable insights (contra §6, §17).
+- **No partner follow-up**: Outreach stalls without tracked commitments (contra §10, §16).
+- **No sample validation**: Material assumptions remain untested (contra §118, §269).
 
 ## 4. Terminology (15-30 items)
 | Term | Short Definition | Full Explanation |

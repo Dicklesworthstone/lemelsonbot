@@ -286,3 +286,99 @@ Anchors: cite §4 or §12.
 **Quote-bank anchors**: §4, §12
 
 **Sources**: gpt_distillation.md, opus_distillation.md, gemini_distillation.md
+
+---
+
+### 🤝 Partner-Engagement
+
+**Definition**: Engage manufacturers/partners through visits and demonstrations to advance commercialization.
+
+**When-to-Use Triggers**:
+- When feasibility or demand needs external validation.
+- When seeking manufacturing or licensing partners.
+- When preparing to request samples or quotes.
+
+**Failure Modes**:
+- No outreach → stalled commercialization.
+- Unstructured engagement → no actionable outcomes.
+
+**Prompt Module** (copy/paste for agents):
+~~~text
+[OPERATOR: 🤝 Partner-Engagement]
+1) Record who was visited or contacted and why.
+2) List what was shown (models, drawings, summaries).
+3) Capture interest level and next steps (quotes, samples, agreements).
+
+Output (required): Partner engagement log entry.
+Anchors: cite §1, §9, or §17.
+~~~
+
+**Canonical tag**: partner-engagement
+
+**Quote-bank anchors**: §1, §9, §17
+
+**Sources**: gpt_distillation.md, opus_distillation.md, gemini_distillation.md
+
+---
+
+### 📞 Follow-Up-Log
+
+**Definition**: Track callbacks, agreements, and pending responses in partner interactions.
+
+**When-to-Use Triggers**:
+- After an initial meeting or call.
+- When a signature or agreement is promised.
+- When next steps are pending.
+
+**Failure Modes**:
+- No follow-up record → stalled deals.
+- Missing commitments → unclear next steps.
+
+**Prompt Module** (copy/paste for agents):
+~~~text
+[OPERATOR: 📞 Follow-Up-Log]
+1) Record the last contact date and promised action.
+2) Note current status (pending, received, delayed).
+3) Set the next follow-up date or action.
+
+Output (required): Follow-up log entry.
+Anchors: cite §10, §16, or §220.
+~~~
+
+**Canonical tag**: follow-up-log
+
+**Quote-bank anchors**: §10, §16, §220
+
+**Sources**: gpt_distillation.md, opus_distillation.md, gemini_distillation.md
+
+---
+
+### 🧪 Sample-Sourcing
+
+**Definition**: Acquire material or prototype samples to validate feasibility.
+
+**When-to-Use Triggers**:
+- When materials are uncertain or untested.
+- When a partner offers a sample part/material.
+- When evaluating a new fabrication method.
+
+**Failure Modes**:
+- No samples → untested assumptions.
+- Samples without evaluation → wasted time.
+
+**Prompt Module** (copy/paste for agents):
+~~~text
+[OPERATOR: 🧪 Sample-Sourcing]
+1) Record what sample was requested or received.
+2) State the purpose of the sample (test/fit/material property).
+3) Log evaluation or next test step.
+
+Output (required): Sample sourcing entry.
+Anchors: cite §17, §118, or §269.
+~~~
+
+**Canonical tag**: sample-sourcing
+
+**Quote-bank anchors**: §17, §118, §269
+
+**Sources**: gpt_distillation.md, opus_distillation.md, gemini_distillation.md

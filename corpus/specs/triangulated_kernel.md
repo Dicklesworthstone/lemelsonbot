@@ -1,7 +1,7 @@
-# Triangulated Kernel — Lemelson Invention Method (v0.2)
+# Triangulated Kernel — Lemelson Invention Method (v0.3)
 
-<!-- TRIANGULATED_KERNEL_START v0.2 -->
-## Triangulated Kernel v0.2
+<!-- TRIANGULATED_KERNEL_START v0.3 -->
+## Triangulated Kernel v0.3
 
 ### Axioms (consensus)
 
@@ -23,6 +23,11 @@ Confidence: HIGH (3/3 agree)
 **4. Claim Scope Expands Through Variants**
 Statement: A core mechanism should be expressed in multiple embodiments.
 Evidence: §7, §14, §120
+Confidence: HIGH (3/3 agree)
+
+**5. Partner Engagement Is Part of the Method**
+Statement: Invention advances through visits, demonstrations, and follow-ups with partners.
+Evidence: §1, §9, §17, §33, §220
 Confidence: HIGH (3/3 agree)
 
 ### Operators (consensus)
@@ -90,6 +95,27 @@ Confidence: HIGH (3/3 agree)
 - Anchors: §4, §12
 - Confidence: HIGH (3/3)
 
+**🤝 Partner-Engagement**
+- Definition: Actively engage manufacturers/partners via visits and demonstrations.
+- Triggers: feasibility validation; licensing outreach; quote/sample requests.
+- Failure modes: no outreach; unstructured engagement.
+- Anchors: §1, §9, §17
+- Confidence: HIGH (3/3)
+
+**📞 Follow-Up-Log**
+- Definition: Track callbacks, agreements, and pending responses in partner interactions.
+- Triggers: after meetings; promised signatures; pending decisions.
+- Failure modes: stalled deals; unclear next steps.
+- Anchors: §10, §16, §220
+- Confidence: HIGH (3/3)
+
+**🧪 Sample-Sourcing**
+- Definition: Acquire material or prototype samples to validate feasibility.
+- Triggers: material uncertainty; partner offers samples; new process trials.
+- Failure modes: untested assumptions; unused samples.
+- Anchors: §17, §118, §269
+- Confidence: HIGH (3/3)
+
 ### Anti-Patterns (consensus)
 
 **Undated or unwitnessed notes**: weak priority evidence (contra §2, §11).
@@ -102,13 +128,17 @@ Confidence: HIGH (3/3 agree)
 
 **Experiments without records**: lost knowledge (contra §5, §8).
 
+**No follow-up discipline**: partner interest decays without tracked commitments (contra §10, §16).
+
+**No sample validation**: feasibility remains untested (contra §118, §269).
+
 ### Output Contract
 - All invention records must include date, scope, and intent.
 - Each disclosure must have witness confirmation or explicit log entry.
 - Each concept must include materials/process feasibility notes.
 - Every major idea should list at least two variants.
 
-<!-- TRIANGULATED_KERNEL_END v0.2 -->
+<!-- TRIANGULATED_KERNEL_END v0.3 -->
 
 ## DISPUTED Items (2/3 agreement)
 None in this pass.

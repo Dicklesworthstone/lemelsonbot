@@ -26,10 +26,10 @@ axioms = re.findall(r"^\*\*\d+\. ", kernel_body, flags=re.M)
 operators = re.findall(r"^\*\*.+\*\*\n- Definition:", kernel_body, flags=re.M)
 
 errors = []
-if len(axioms) < 3:
-    errors.append(f"expected >=3 axioms, found {len(axioms)}")
-if len(operators) < 8:
-    errors.append(f"expected >=8 operators, found {len(operators)}")
+if len(axioms) < 5:
+    errors.append(f"expected >=5 axioms, found {len(axioms)}")
+if len(operators) < 12:
+    errors.append(f"expected >=12 operators, found {len(operators)}")
 
 # Validate anchors against quote bank
 if quote_bank.exists():

@@ -17,6 +17,10 @@
   - Evidence: Notes about confidentiality, agreements, and guarded disclosures (§13, §16, §1).
   - Implication: The inventor actively manages who is allowed into the idea-space.
 
+- **Commercialization is part of the method**.
+  - Evidence: Repeated visits, demonstrations, and follow-ups with companies (§1, §9, §17, §33, §220).
+  - Implication: Lemelson treats outreach and negotiation as intrinsic to invention.
+
 ## 2. Operators (8-15 items)
 
 #### 🧾 Record-of-Conception
@@ -115,6 +119,42 @@
 - **Quote anchors**: §6, §17
 - **Related operators**: 🔒 Disclosure-Log
 
+#### 🤝 Partner-Engagement
+- **Definition**: Visit and show work to manufacturers/partners to validate and move ideas forward.
+- **When to use**:
+  - When feasibility or demand is uncertain.
+  - When seeking licensing or production partners.
+  - When requesting samples or quotes.
+- **Failure modes**:
+  - No outreach → isolation of the idea.
+  - Unstructured engagement → no actionable outcomes.
+- **Quote anchors**: §1, §9, §17
+- **Related operators**: 🔒 Disclosure-Log, 📞 Follow-Up-Log
+
+#### 📞 Follow-Up-Log
+- **Definition**: Track commitments, callbacks, and agreements in partner interactions.
+- **When to use**:
+  - After initial meetings.
+  - When agreements are promised but delayed.
+  - When next steps must be enforced.
+- **Failure modes**:
+  - Untracked follow-ups → stalled progress.
+  - Missing commitments → weak leverage.
+- **Quote anchors**: §10, §16, §220
+- **Related operators**: 🤝 Partner-Engagement
+
+#### 🧪 Sample-Sourcing
+- **Definition**: Acquire material or prototype samples to ground feasibility.
+- **When to use**:
+  - When materials are uncertain.
+  - When partners offer samples.
+  - When fabrication needs validation.
+- **Failure modes**:
+  - No samples → purely speculative design.
+  - Samples without evaluation → wasted cycles.
+- **Quote anchors**: §17, §118, §269
+- **Related operators**: 🧪 Experiment-Log, ⚙ Manufacturing-Feasibility
+
 #### § Patent-Link
 - **Definition**: Tie entries to patent filings, exhibits, and prior art.
 - **When to use**:
@@ -133,6 +173,8 @@
 - **Manufacturing amnesia**: Ignoring materials/process leads to fantasy designs (contra §20, §22).
 - **Single embodiment fixation**: Narrowness undermines patent scope (contra §7, §14).
 - **Unrecorded experiments**: Results disappear and can’t be used as evidence (contra §5).
+- **No follow-up discipline**: Partner interest decays without tracked commitments (contra §10, §16).
+- **Sample neglect**: Ignoring material samples leaves feasibility ungrounded (contra §118, §269).
 
 ## 4. Terminology (15-30 items)
 | Term | Short Definition | Full Explanation |

@@ -29,3 +29,13 @@
 **What not to do**: Show a model without recording who saw it or what was learned.
 **Why it fails**: Breaks the chain from prototype to claim and partner feedback.
 **Anchors**: §6, §17
+
+## A7 — No Follow-Up Discipline
+**What not to do**: Fail to log callbacks, promised agreements, or pending decisions.
+**Why it fails**: Partner interest decays and deals stall without tracked commitments.
+**Anchors**: §10, §16, §220
+
+## A8 — Sample Neglect
+**What not to do**: Request or receive samples without evaluation or logging.
+**Why it fails**: Feasibility remains ungrounded and learning is lost.
+**Anchors**: §118, §269
