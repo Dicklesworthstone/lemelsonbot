@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Validate](https://github.com/Dicklesworthstone/lemelsonbot/actions/workflows/validate.yml/badge.svg)](https://github.com/Dicklesworthstone/lemelsonbot/actions/workflows/validate.yml)
+[![CI](https://github.com/Dicklesworthstone/lemelsonbot/actions/workflows/ci.yml/badge.svg)](https://github.com/Dicklesworthstone/lemelsonbot/actions/workflows/ci.yml)
 [![Corpus](https://img.shields.io/badge/corpus-lemelsonbot-blue)](LEMELSON_NOTEBOOKS_EXTRACTED_v1.md)
 
 </div>
