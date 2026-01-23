@@ -1,28 +1,28 @@
-# Triangulated Kernel — Lemelson Invention Method (v0.1)
+# Triangulated Kernel — Lemelson Invention Method (v0.2)
 
-<!-- TRIANGULATED_KERNEL_START v0.1 -->
-## Triangulated Kernel v0.1
+<!-- TRIANGULATED_KERNEL_START v0.2 -->
+## Triangulated Kernel v0.2
 
 ### Axioms (consensus)
 
 **1. Priority Requires Evidence**
 Statement: A conception only counts when dated, recorded, and witnessed.
-Evidence: §2, §20, §21, §11, §12
+Evidence: §2, §20, §21, §11, §12, §105
 Confidence: HIGH (3/3 agree)
 
 **2. Buildability Is Part of the Idea**
 Statement: An invention description must include materials and fabrication methods.
-Evidence: §20, §22, §14
+Evidence: §20, §22, §14, §110, §117
 Confidence: HIGH (3/3 agree)
 
 **3. Disclosure Is Controlled and Logged**
 Statement: External sharing must be tracked and conditioned.
-Evidence: §1, §13, §16
+Evidence: §1, §13, §16, §107, §109, §111
 Confidence: HIGH (3/3 agree)
 
 **4. Claim Scope Expands Through Variants**
 Statement: A core mechanism should be expressed in multiple embodiments.
-Evidence: §7, §14
+Evidence: §7, §14, §120
 Confidence: HIGH (3/3 agree)
 
 ### Operators (consensus)
@@ -108,7 +108,7 @@ Confidence: HIGH (3/3 agree)
 - Each concept must include materials/process feasibility notes.
 - Every major idea should list at least two variants.
 
-<!-- TRIANGULATED_KERNEL_END v0.1 -->
+<!-- TRIANGULATED_KERNEL_END v0.2 -->
 
 ## DISPUTED Items (2/3 agreement)
 None in this pass.

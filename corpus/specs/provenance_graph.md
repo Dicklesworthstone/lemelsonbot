@@ -16,16 +16,20 @@
 - **EV-013**: §13/§16 — Disclosure and agreements (Vol 3, Pages 54, 59)
 - **EV-014**: §5/§8 — Experiments and material tests (Vol 1, Pages 62, 58)
 - **EV-015**: §7/§14 — Variations and multi-figure embodiments (Vol 1, Page 51; Vol 3, Page 70)
+- **EV-016**: §105 — Patent applications status and amendments (Vol 13, Page 249)
+- **EV-017**: §107/§109/§111 — Logged disclosures to manufacturers/partners (Vol 15 Page 271; Vol 13 Page 4; Vol A Page 40)
+- **EV-018**: §110/§117 — Manufacturing methods/materials notes (Vol 10 Page 152; Vol 13 Page 61)
+- **EV-019**: §120 — Continuation/extension of prior filings (Vol 13, Page 105)
 
 ## Operator → Evidence Mapping
 | Operator | Evidence Nodes | Notes |
 |---------|----------------|-------|
-| 🧾 Record-of-Conception | EV-001, EV-002, EV-003 | Formal conception records with intent.
+| 🧾 Record-of-Conception | EV-001, EV-002, EV-003, EV-016 | Formal conception records with intent.
 | 🧾 Witness-Sign | EV-004, EV-005, EV-006, EV-007 | Read/understood acknowledgments.
-| 🔒 Disclosure-Log | EV-011, EV-012, EV-013 | Models shown + confidentiality constraints.
+| 🔒 Disclosure-Log | EV-011, EV-012, EV-013, EV-017 | Models shown + confidentiality constraints.
 | ✏ Figure-and-Embodiment | EV-009, EV-010 | Figures/exhibits bound to text.
-| ♻ Variant-Enumeration | EV-015 | Variations and multi-embodiment framing.
-| ⚙ Manufacturing-Feasibility | EV-008 | Materials/processes in concept notes.
+| ♻ Variant-Enumeration | EV-015, EV-019 | Variations and multi-embodiment framing.
+| ⚙ Manufacturing-Feasibility | EV-008, EV-018 | Materials/processes in concept notes.
 | 🧪 Experiment-Log | EV-014 | Experiments and tests documented.
 | 🧩 Prototype-Build | EV-011, EV-012 | Models used for validation/outreach.
 | § Patent-Link | EV-010, EV-005 | Applications/exhibits cross-referenced.
@@ -33,7 +37,7 @@
 ## Axiom → Evidence Mapping
 | Axiom | Evidence Nodes |
 |------|----------------|
-| Priority Requires Evidence | EV-001, EV-002, EV-004, EV-005 |
-| Buildability Is Part of the Idea | EV-008, EV-009 |
-| Disclosure Is Controlled and Logged | EV-011, EV-012, EV-013 |
-| Claim Scope Expands Through Variants | EV-015 |
+| Priority Requires Evidence | EV-001, EV-002, EV-004, EV-005, EV-016 |
+| Buildability Is Part of the Idea | EV-008, EV-009, EV-018 |
+| Disclosure Is Controlled and Logged | EV-011, EV-012, EV-013, EV-017 |
+| Claim Scope Expands Through Variants | EV-015, EV-019 |

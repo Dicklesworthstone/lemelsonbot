@@ -1,0 +1,26 @@
+name: Validate Corpus
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Validate corpus
+        run: python3 scripts/validate-corpus.py
+
+      - name: Validate kernel
+        run: python3 scripts/validate-kernel.py
+
+      - name: Validate operators
+        run: python3 scripts/validate-operators.py
