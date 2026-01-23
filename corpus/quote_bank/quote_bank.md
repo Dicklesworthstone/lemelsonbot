@@ -599,3 +599,403 @@ Tags: collaboration, design, manufacturing, prototype
 > "Automatic Warehousing Apparatus It is conceived to modify the conveying apparatus disclosed in my patent 3049247, application ser no 477,467, of 49,874 and previous notebook disclosures for orders picking apparatus by eliminating the overhead track traveling..."
 — Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 13, Page 105
 Tags: conception, confidentiality, design, disclosure, ip, witnessing
+
+## §121 — Jerome H. Lemelson Invention Notebook, Volume A, Page 24
+> "& Eckhardt) if sold for my ~~  ~~ work on same. I am also working on the modification of globes for use as a desk set for McCann-Erickson and on novelties made from water expandable cellulose sponge material. J. Lemelson Nov. 17, 1959 PS. Also shown to Max..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume A, Page 24
+Tags: design, ip, prototype, witnessing
+
+## §122 — Jerome H. Lemelson Invention Notebook, Volume 16, Page 97
+> "March 5, 1964 Today, March 5, 1964 I completed working models of the packaging assembles illustrated on pages 118 and 119 of this book Jerome Lemelson Programmed Recorder and Playback Apparatus. A programmed or computer controlled record playback dis  system..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 16, Page 97
+Tags: conception, confidentiality, design, ip, packaging, prototype, witnessing
+
+## §123 — Jerome H. Lemelson Invention Notebook, Volume A, Page 47
+> "operated a motor M' operates to make arm A change in radial position relative to the shaft so that attracted toy object will travel a changing path on surface of drum or can Jerry Lemelson Jan 18, 1960 LW 1/19/60 EAW 1/19/60 Watt on pgs 36 thru 57 read &..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume A, Page 47
+Tags: collaboration, confidentiality, design, manufacturing, prototype, witnessing
+
+## §124 — Jerome H. Lemelson Invention Notebook, Volume 2, Page 52
+> "Body of rocket (drinking section) Top - Shaped like nose of rocket ship Tight push fit of head with body so that device may be used as a shaker Two or more fins on body to stimulate rocket NOTE: WINDOW INDENTATIONS, ROCKET EXHAUST TUBES, OTHER FEATURES OF A..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 2, Page 52
+Tags: design, ip, prototype, testing, witnessing
+
+## §125 — Jerome H. Lemelson Invention Notebook, Volume 2, Page 54
+> "merits as he was not shown it originally. I also requested that he get after Baggott to return the original drawing which I gave him back in August. Jerome Lemelson Dec.3 51 Witnessed by H. Lemelson Dec 28,1951 Progress is continuing on my patent application..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 2, Page 54
+Tags: collaboration, conception, ip, prototype, witnessing
+
+## §126 — Jerome H. Lemelson Invention Notebook, Volume A, Page 25
+> "which 21 is shown which when energized by a source of alternating current causes the rod 14 and tip 15 to vibrate by means of magnetostriction. The end of 15 when brought into contact with a surface thru the opening 17 of 16 and and vibrated thereagainst will..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume A, Page 25
+Tags: conception, design, ip, joining, witnessing
+
+## §127 — Jerome H. Lemelson Invention Notebook, Volume 2, Page 40
+> "Sept. 3.-51. I have just completed additional drawings on the cargo contained witnessed previously and recorded on p 51, one of which is a patent drawing of the arrangement. The device was first shown to J.J. Johnson in June who described it to a M. Joyce..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 2, Page 40
+Tags: collaboration, ip, prototype, witnessing
+
+## §128 — Jerome H. Lemelson Invention Notebook, Volume 2, Page 47
+> "embodyment mentioned in one of my claims, a toy figure part of which is inflatable. I showed him a drawing of a toy dog with long ears that pop up when a bulb is depressed, the dog being mounted on the crown of a cap. Although his chief engineer, Mr. Ed..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 2, Page 47
+Tags: collaboration, ip, prototype, witnessing
+
+## §129 — Jerome H. Lemelson Invention Notebook, Volume A, Page 57
+> "The apparatus illustrated (on p.60 in Fig. 1) is an electron discharge device having an electron gun 32 mounted in a ~~ master ~~ main housing 12 the end of which is openable by means of a valve 18 to permit communication ~~ of ~~ between the interior volume..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume A, Page 57
+Tags: confidentiality, design, joining, prototype, witnessing
+
+## §130 — Jerome H. Lemelson Invention Notebook, Volume A, Page 76
+> "J Feb. 5, 1960 I visited Phillip Hausmann of R. K. Price Associates at the 509 Madison Avenue Office and disclosed the drawings of my presently pending application entitled Ultrasonic Apparatus with the expressed intent of having them file foreign patent..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume A, Page 76
+Tags: collaboration, design, disclosure, ip
+
+## §131 — Jerome H. Lemelson Invention Notebook, Volume 13, Page 15
+> "Packaging Assembly Feb 19/1962 A new type of packaging assembly illustrated in Fig. 1 and 2 (next page) is conceived which may serve as a display and/or dispenser of unit packages. The method of producing such a packaging assembly will first be described by..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 13, Page 15
+Tags: conception, confidentiality, design, packaging, witnessing
+
+## §132 — Jerome H. Lemelson Invention Notebook, Volume 9, Page 24
+> "Moffett of the merchandizing Dept, Retail Tape ~~ Trad ~~ Division, Minnesota Mining and Manufacturing Company whom he showed this to at the Chicago Premium Show. (re: pp 10 to 13 and my patent drawing) for capsule design. J. Lemelson These new packaging..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 9, Page 24
+Tags: collaboration, conception, confidentiality, design, ip, packaging, witnessing
+
+## §133 — Jerome H. Lemelson Invention Notebook, Volume 9, Page 79
+> "The imprint above was produced from a cut made by applying a flocking material to a piece of cardboard in the desired design and retaining it thereon with an adhesive and thereafter applying ink ~~ ed ~~to the flocked design (by means of a stamp pad) and..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 9, Page 79
+Tags: confidentiality, design, ip, witnessing
+
+## §134 — Jerome H. Lemelson Invention Notebook, Volume 9, Page 78
+> "The imprint above was produced from a cut made by applying a flocking material to a piece of cardboard in the desired design and retaining it thereon with an adhesive and thereafter applying ink to the flocked design (by means of a stamp pad) and impressing..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 9, Page 78
+Tags: confidentiality, design, ip, witnessing
+
+## §135 — Jerome H. Lemelson Invention Notebook, Volume 9, Page 10
+> "equation (d) also suggested by me to Max Silverman and Al Kaufman was the idea to injection mold a put together puzzle (of plastic) and package it apart or on original molding gate to be separated by user and assembled according to instructions on box or bag..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 9, Page 10
+Tags: confidentiality, manufacturing, packaging, prototype, witnessing
+
+## §136 — Jerome H. Lemelson Invention Notebook, Volume 9, Page 64
+> "Nov. 11, 1960 I visited the office of Felicia Nichols & Alice Parker at 210 E 38th St. N.Y.C. today and disclosed & discussed the following toy inventions with them 1. Magnetic Target 2. Wheeled Helicopter Riding Toy (Phil Deutsch & and my designs) 3. Bell..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 9, Page 64
+Tags: collaboration, confidentiality, design, disclosure, packaging, witnessing
+
+## §137 — Jerome H. Lemelson Invention Notebook, Volume 9, Page 19
+> "suggested these as possible products we could manufacture in the future together Jerome Lemelson THIS CONFIDENTIAL MATTER READ & UNDERSTOOD BY Ernest J Waldmeyer DATE 4/24/60 LW Visited Broadcast Specialties Company today- When Max Silverman asked me if I had..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 9, Page 19
+Tags: collaboration, confidentiality, disclosure, witnessing
+
+## §138 — Jerome H. Lemelson Invention Notebook, Volume 9, Page 26
+> "A radio transmitter not requiring a battery is conceived. A spring wound or actuated mechanism creates enough electricity by moving a magnet thru a coil to power a transistorized transmitter of a known pulse code or voice signal while in motion. JB 6/10/60 L..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 9, Page 26
+Tags: collaboration, conception, confidentiality, ip, witnessing
+
+## §139 — Jerome H. Lemelson Invention Notebook, Volume 9, Page 18
+> "Putty Marketing to I.L Toy Co of Baltimore, I described details of my pending application for Electrical Game Apparatus to Axelrod. This included my drawing showing Figs. 1 to 1e of the continuation application I am working on entitled Electrical Game..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 9, Page 18
+Tags: confidentiality, design, ip, packaging, witnessing
+
+## §140 — Jerome H. Lemelson Invention Notebook, Volume 9, Page 72
+> "by hand, thereby preventing pilfering of the contents of said subcontainer in a store. Another object is to provide an improved ~~ package inclu ~~ container for a consumer product including a ~~ transpor ~~ sub-container in the form of a blister of..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 9, Page 72
+Tags: confidentiality, joining, packaging, prototype, witnessing
+
+## §141 — Jerome H. Lemelson Invention Notebook, Volume 9, Page 75
+> "applying reflective beads thereover (c) A lens sheet design in which the lenticular surface is coated or covered with a transparent plastic material of a different index of refraction than the material of the lends sheet itself. The above ideas and others..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 9, Page 75
+Tags: collaboration, confidentiality, design, prototype, witnessing
+
+## §142 — Jerome H. Lemelson Invention Notebook, Volume 16, Page 71
+> "lines 22 and 23. A tab 27 is shown in Fig. 3 as sealed to the end of 24 to facilitate tearing but may not be necessary. Tab 27 may also act as a tear strip extending across 24 and sealed thereto to effect a tear therein when pulled. VM Jerome Lemelson M..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 16, Page 71
+Tags: confidentiality, design, ip, joining, witnessing
+
+## §143 — Jerome H. Lemelson Invention Notebook, Volume 9, Page 68
+> "can Nov. 11. 1960 carbonate resin the edge 13 may be deformed by spinning or dies without the application of heat or with the application of localized heating thereto. A machine is conceived which automatically applies preformed (thermoformed or molded)..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 9, Page 68
+Tags: conception, confidentiality, ip, manufacturing, witnessing
+
+## §144 — Jerome H. Lemelson Invention Notebook, Volume 15, Page 260
+> "selected Vac. deposites of metal, diaelectric, semi conductor as vapor by selective charging of area, beam means,etc Elec. beam or light beam heating of metal vapor as it is deposited PARISON CONTROLLED METHOD OF BLOW MOLDING BOTTLES WITH RIGID NECKS & RIMS..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 15, Page 260
+Tags: conception, confidentiality, design, manufacturing, witnessing
+
+## §145 — Jerome H. Lemelson Invention Notebook, Volume 5, Page 7
+> "~~ Mold Constructions ~~ Figs. 2 and 3 are views showing further details of modified apparatus in the realm of that shown in Fig. 1 wherein the mild compresses an assembly 30 ~~ of ~~ of semi-spherical half mold sections 31 and 31 having ~~ a ~~ relatively..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 5, Page 7
+Tags: confidentiality, design, ip, manufacturing, witnessing
+
+## §146 — Jerome H. Lemelson Invention Notebook, Volume 16, Page 64
+> "Improvements in rubbers (shoe) (1) Hard & soft rubber on bottom 2 shot molding: Ridges, spots not shrink under heating or extended parallel to one or more non-heat shrinkable filaments in a binder, or coated with a non-heat shrinkable polymer the shape of..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 16, Page 64
+Tags: conception, confidentiality, design, ip, manufacturing, witnessing
+
+## §147 — Jerome H. Lemelson Invention Notebook, Volume 16, Page 8
+> "Laser apparatus claimsPatent applications in process. 1. Method of machining material comprising the steps of directing an intense beam of radiation against a surface to be machined of sufficient intensity to heat that portion of the material ~~ beam ~~..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 16, Page 8
+Tags: confidentiality, design, ip, witnessing
+
+## §148 — Jerome H. Lemelson Invention Notebook, Volume 5, Page 42
+> "patent application for the material disclosed on pages 47 to 49 (TARGET CONSTRUCTION); pp 52 & 53 (RING BALANCING TOY) and page 54 (~~ PRO ~~ GAME DEVICE -using Porelon) A porelon dart has been reduced to practice and I expect to file a patent application..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 5, Page 42
+Tags: conception, design, disclosure, ip, prototype
+
+## §149 — Jerome H. Lemelson Invention Notebook, Volume 2, Page 94
+> "six months ago but he returned them. Pat applications in process (1) Sealing Rivet pp. 100-103 (2) Inflatable Toys pp. 134-139 (3) Constructional Toys (witnessed, mailed sheets) including Wheelit, springs 'n Things, styrofoam top, pendulum toys, adhesive..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 2, Page 94
+Tags: ip, joining, prototype, witnessing
+
+## §150 — Jerome H. Lemelson Invention Notebook, Volume A, Page 101
+> "orifice Different nozzle orifice designs It has also been conceived by me to effect the following improvements in high speed machining techniques. It is known in the art to machine a hard metal by means of a cutting tool fired at high velocity from a gun by..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume A, Page 101
+Tags: conception, confidentiality, design, ip, witnessing
+
+## §151 — Jerome H. Lemelson Invention Notebook, Volume 5, Page 125
+> "Method of Packaging & Pkg. Assy.32442,8065/12/71 App. for Surface Forming Sheet Metal322155,6616/22/71 Code Gen. App. & Meth.235160,0077/6/71 Radiation Beam App. & Meth.223165,4457/26/71 Molding App. & Meth.146194,63011/1/71 Pressure Forming App. &..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 5, Page 125
+Tags: design, joining, manufacturing, packaging
+
+## §152 — Jerome H. Lemelson Invention Notebook, Volume 16, Page 57
+> "synchronized time relationship thereto for the purpose of (a) driving a piston or turbine, (b) generating high pressures (and temperatures) for chemical reaction, (c) forming materials such as metal sheet, plate, etc in an open die, (d) welding material, (e)..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 16, Page 57
+Tags: conception, confidentiality, design, joining, witnessing
+
+## §153 — Jerome H. Lemelson Invention Notebook, Volume 13, Page 261
+> "Disclosure of Premiums to Bordens (April 8, 63) The following ideas were shown to and discussed with William Westgate of the Borden Co. on April 8, 1963) (a) Inflatable Mercury Space Capsule (b) Hand Puppets using vacuum formed plastic heads, heat sealed..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 13, Page 261
+Tags: conception, joining, manufacturing
+
+## §154 — Jerome H. Lemelson Invention Notebook, Volume 16, Page 20
+> "Also proposed to Joe Lieberman and Sam Freimauer yesterday, Jan 24 was the  idea of molding different size housings to accommodate records of different diameters (i.e. a housing larger than they are now planning to produce for sale to doll manufacturers so..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 16, Page 20
+Tags: conception, confidentiality, design, manufacturing, witnessing
+
+## §155 — Jerome H. Lemelson Invention Notebook, Volume 16, Page 102
+> "including the further steps of applying and removing said intense magnetic field from said die before completely removing the article therefrom 9. ~~ apparatus ~~ a method in accordance with claims 8 in which said intense magnetic field is increased a number..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 16, Page 102
+Tags: confidentiality, design, ip, manufacturing, witnessing
+
+## §156 — Jerome H. Lemelson Invention Notebook, Volume 13, Page 173
+> "(9.) Hand puppet made of heat sealed vinyl with a facial portion made of vacuum formed viny. A sample of our Stripee puppet was left with them. (10) Ricochet Pistol (re. p. 111) (11) Wheeled Inflatable Toy (12) Inflatable capsule (Space) (13) Blow molded..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 13, Page 173
+Tags: collaboration, design, joining, manufacturing, packaging
+
+## §157 — Jerome H. Lemelson Invention Notebook, Volume 10, Page 100
+> "The following variables of an extruder or piston operated feed plastic injector for blow molding may be program controlled in the realm of my invention for Extrusion Apparatus (SN 694,622) (a) Opening and closing of blow molding molds. (b) Air injection to..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 10, Page 100
+Tags: confidentiality, design, manufacturing, witnessing
+
+## §158 — Jerome H. Lemelson Invention Notebook, Volume 10, Page 43
+> "Fig. 8 Fig. 8' In Figs 8 and 9 which will permit the formation of webs or belts of chains ~~ cross w ~~ in which lengthened arrays of chains are cross joined by links 16 passing thru holes 15 in the longitudinal legs of the links. J. Lemelson Febuary 2,1961..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 10, Page 43
+Tags: collaboration, confidentiality, design, ip, witnessing
+
+## §159 — Jerome H. Lemelson Invention Notebook, Volume 15, Page 160
+> "high temperature insulation resins such as diphenyl oxide may be applied, as described above, continuously to continuous cast, extruded or rolled tubing, pipe, sheet etc by introduction there the mandrel or adjacent the die to provide a uniform layer which is..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 15, Page 160
+Tags: disclosure, ip, witnessing
+
+## §160 — Jerome H. Lemelson Invention Notebook, Volume 13, Page 218
+> "Fluid Processing Apparatus to make metal powd, rods, etc. rotate ejector Also, an intense magnetic field applied to the rollers or dies thru which the sheet is driven may be used to shape, deform or compress the sheet. It is also conceived to coat, plate or..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 13, Page 218
+Tags: conception, design, ip, manufacturing
+
+## §161 — Jerome H. Lemelson Invention Notebook, Volume 5, Page 89
+> "Oct 24 1959 Conceived of the idea of molding the lenses of eyeglasses and frame in 1 piece of high strength glass (Vycor) or Pyroceram and discussed it with Lester Gassman Optometrist of Metuchen today. Lens part could be ground to prescription, frame part..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 5, Page 89
+Tags: collaboration, conception, design, manufacturing, prototype
+
+## §162 — Jerome H. Lemelson Invention Notebook, Volume 15, Page 146
+> "soluble plastic. The capsule may also contain food for the seed; said food being packed adjacent the seed, part mixed with the plastic plastic may also be starch derivative) or coated on the seeds individually or groups of seeds. A second design for an..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 15, Page 146
+Tags: conception, confidentiality, design, testing, witnessing
+
+## §163 — Jerome H. Lemelson Invention Notebook, Volume 13, Page 262
+> "Premium Disclosures to Campbel Soups On April 10, 1963, the following premiums were disclosed by Jules Cotler and myself to Mr. Harry Carter of the Campbel Soup Company. (a) Hand puppets including Puppets of the Nations made by our novel process including..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 13, Page 262
+Tags: conception, disclosure, joining, manufacturing
+
+## §164 — Jerome H. Lemelson Invention Notebook, Volume 2, Page 44
+> "2. Will Fisher, my agent in Chicago was in New York ~~ on October  last week and I saw him. I described my magnetic to figure (fig. 5 in my pending application on Magnetic Targets) and he thinks its terrific. He'll show a model which he wants me to make to..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 2, Page 44
+Tags: ip, prototype, witnessing
+
+## §165 — Jerome H. Lemelson Invention Notebook, Volume 15, Page 63
+> "Disclosure on May 29, 1963 Ed Rimberg of Resources and Facilities Corp. was shown a drawing which I have recently completed for a patent application on an ultrasound device for inspecting elevator cable or other elongated members which pass thru a closable..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 15, Page 63
+Tags: confidentiality, ip, joining, witnessing
+
+## §166 — Jerome H. Lemelson Invention Notebook, Volume 10, Page 112
+> "will be most rapid. An electrostatic charge image corresponding to optical image is now fixed in insulator layer. Beam scan to reproduce. Magna Tech Electronic Co. 630 9th Ave, N.Y. 36 Film-sound prodn equipt Oct 1960 Issue-Fiber Optics Light entering end of..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 10, Page 112
+Tags: collaboration, confidentiality, disclosure, ip, prototype
+
+## §167 — Jerome H. Lemelson Invention Notebook, Volume 2, Page 23
+> "said stamps. Claim B- above wherein said supporting sheet is circular in ~~ profile ~~ shape. Claim C-.- Above wherein said supporting sheet is rectangular. Ideal Toy & Novelty Co: Visited sales mgr. (Mr. Michtom) of Ideal Toy & Novelty Co. (his asstants were..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 2, Page 23
+Tags: collaboration, ip, prototype
+
+## §168 — Jerome H. Lemelson Invention Notebook, Volume 5, Page 84
+> "following invention conceived by me years ago, which I intend to file an application on in the near future when I get time. Invention consists of a deflated life raft which, when a valve is opened to a container of gas, inflates and -simultaneously a mixture..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 5, Page 84
+Tags: conception, confidentiality, ip, witnessing
+
+## §169 — Jerome H. Lemelson Invention Notebook, Volume 15, Page 272
+> "bell, train, pipe, bugle, reed, whistle or bazooka noisemaker in the mouthpiece of the horn or bugle); sword with bellows in handle or handle guard, bellows shapedship; drum; saxophone, axe, etc. (f) Table top toys- for small children (suction cup attached at..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 15, Page 272
+Tags: collaboration, confidentiality, disclosure, manufacturing, witnessing
+
+## §170 — Jerome H. Lemelson Invention Notebook, Volume 2, Page 92
+> "that Pilot Plastics Company of Paterson, N.J. is now manufacturing an assembly toy having the embodyment of an invention which was conceived by me over a year ago. According to my records I have a stamped sealed envelope dated August 30, 1951 which contains..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 2, Page 92
+Tags: conception, ip, joining, prototype
+
+## §171 — Jerome H. Lemelson Invention Notebook, Volume 13, Page 281
+> "(k) Employment (cycle time relation to other variables) of auxiliary machining apparatus to supplement fluid machining function such as electron beam or beams, laser beam or beams, cutting tools, auxiliary flame or induction heating, etchants, bending forces,..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 13, Page 281
+Tags: collaboration, design, disclosure, joining, prototype
+
+## §172 — Jerome H. Lemelson Invention Notebook, Volume 15, Page 274
+> "in the fabrication and construction of the record player were suggested by me with the intent of obtaining a royalty if utilized by them. No mention was made by either Freimauer or Lieberman at the time I proposed these improvements that they had thought of..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 15, Page 274
+Tags: collaboration, design, disclosure, manufacturing, witnessing
+
+## §173 — Jerome H. Lemelson Invention Notebook, Volume 5, Page 93
+> "plastic strip 12 above that portion thereof containing the gauze patch 18 which is adhesively bonded to the other surface of 12. Holes H' extend thru the patch 32 in alignment with the holes H in strip 14. The material comprising 32 may also be foamed plastic..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 5, Page 93
+Tags: design, joining, manufacturing
+
+## §174 — Jerome H. Lemelson Invention Notebook, Volume 13, Page 264
+> "Premium Disclosures to Mr. Laurence E Horner of the Compton Agency for Proctor and Gamble. The following designs and ideas were shown and described to Mr L.E. Horner and Mr. Leseur of Compton Agency by Jules Cotler and I on April 11, 1963. (a) Hand puppets..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 13, Page 264
+Tags: design, joining, manufacturing
+
+## §175 — Jerome H. Lemelson Invention Notebook, Volume 5, Page 22
+> "August 9, 1958 Reference is made to my patent application entitled Information Storage System which I am working on pertaining to the storage of image frames and automatic reproduction of selected of said frames by means of video, the following being a..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 5, Page 22
+Tags: confidentiality, design, ip, witnessing
+
+## §176 — Jerome H. Lemelson Invention Notebook, Volume 2, Page 23
+> "be made of plastic or non mag susceptible material with a magnet embedded or attached in it around the perimeter where objects are to hang. Semi-circular strip 2 is used as a prepositioner, and it may extend beyond the edge of 3 so that the user turning top..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 2, Page 23
+Tags: collaboration, ip, prototype, witnessing
+
+## §177 — Jerome H. Lemelson Invention Notebook, Volume 10, Page 141
+> "in my application “Electrical Game Apparatus” was also mentioned to Kinberg and Strongin. J Lemelson May 25-61 THIS CONFIDENTIAL MATTER READ & UNDERSTOOD BY E Waldenmeyer DATE 5/29/61 May 26, 1961 The following data transmission devices and subsystem have..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 10, Page 141
+Tags: conception, confidentiality, design, ip, witnessing
+
+## §178 — Jerome H. Lemelson Invention Notebook, Volume 15, Page 85
+> "In Fig. 6, a housing 50 is shown which is molded of plastic such as polyethylene or polypropylene and having at least three if not four of the hinges 52 joining respective walls ~~ to ~~ 51,53,54 and 55 together, formed by molding. In other words, all four..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 15, Page 85
+Tags: confidentiality, design, joining, manufacturing, witnessing
+
+## §179 — Jerome H. Lemelson Invention Notebook, Volume 15, Page 83
+> "by means of ambient light Wall 21 may thus be thinner than the other walls and reduction of light transmitted thru said other walls may be effected by ~~ sil deco ~~ paint or lacquer applied to either or both major surfaces thereof. Other forms of the..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 15, Page 83
+Tags: confidentiality, manufacturing, witnessing
+
+## §180 — Jerome H. Lemelson Invention Notebook, Volume A, Page 41
+> "Ball pen hollow to receive the end of a ball pen which becomes handle plastic molding (e) Form Molding Inc. plates obtained by me for Max Silverman several weeks ago have been tested by his employees in use at home. (f) ~~The ~~I suggested that the walls of..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume A, Page 41
+Tags: confidentiality, manufacturing, packaging, testing, witnessing
+
+## §181 — Jerome H. Lemelson Invention Notebook, Volume 15, Page 129
+> "HIGHWAY CONE & LIGHT Aug. 15-63 I visited (United Telecontrol, Inc. (Belmar N.J., Monmouth Airport) and discussed my U.S. Patent # 2949531 with Harold Sher and Gus Schmeling to determine if they would be interested in developing a model for me: Amongst the..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 15, Page 129
+Tags: collaboration, design, ip, joining, manufacturing, prototype
+
+## §182 — Jerome H. Lemelson Invention Notebook, Volume 13, Page 42
+> "Character Reader - oscillate (magneto-strictively lens to account for vertical position of ~~ letter ~~ characte and variations in character size July 24, 1962 - Character Reader The following improvements in my character optical reader using optical matching..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 13, Page 42
+Tags: conception, design, ip
+
+## §183 — Jerome H. Lemelson Invention Notebook, Volume 15, Page 114
+> "such darts at a slab of Dow electrafoam at least fity times without the foam deforming permanently where penetrated, at least so that the penetration shows. Furthermore, the dart is retained against the target every time since little force is required for..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 15, Page 114
+Tags: conception, confidentiality, manufacturing, packaging, witnessing
+
+## §184 — Jerome H. Lemelson Invention Notebook, Volume A, Page 12
+> "Nov 6, 1959 Concerning the above idea, an edge line or lines ~~ scann ~~ printed on the sheet or sheets of plastic to be blow molded may be used for lateral registration. The correction of the position of a photoelectric cell (error signal derived in change..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume A, Page 12
+Tags: design, ip, manufacturing
+
+## §185 — Jerome H. Lemelson Invention Notebook, Volume 13, Page 79
+> "lens or ~~ mirror ~~ screen B. The images M are preferably distorted in their original shape so that they will appear undistorted when imaged on face A' of A or B' of B. Laser Apparatus and Methods Employing Intense Light Beams such as generated by lasers...."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 13, Page 79
+Tags: conception, confidentiality, design, ip, witnessing
+
+## §186 — Jerome H. Lemelson Invention Notebook, Volume A, Page 35
+> "Doeskin Notchem notched cardboard put together mock deer or doe. Magnetic ~~ bulletin b ~~ tool board (ref. p. 55) using ceramic magnets utilizing Masonite & magnets with counterbore or countersunk holes thru them to secure to peg-board with plastic screws...."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume A, Page 35
+Tags: collaboration, conception, disclosure, ip, packaging, prototype
+
+## §187 — Jerome H. Lemelson Invention Notebook, Volume 15, Page 131
+> "Roll Bond (tube in strip) Heat Exchanger  & encap radio-telephone communication system employing remote coupling to a conventional telephone terminal circuit and showed Sher & Schmeling copies of various patents. I also described the Facsimile system attached..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 15, Page 131
+Tags: collaboration, confidentiality, design, ip, manufacturing, witnessing
+
+## §188 — Jerome H. Lemelson Invention Notebook, Volume 13, Page 40
+> "Highway devices - Thin film code generators provided on punched cardpress button (after removing plastic overlayer or blister to generate code or insert card in roadside box to call for help. EL 7/16/62 The above invention is conceived in which either a..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 13, Page 40
+Tags: collaboration, conception, confidentiality, joining, witnessing
+
+## §189 — Jerome H. Lemelson Invention Notebook, Volume 15, Page 275
+> "Dec 20, 1963 I met with E.J. Mahler, of Olin-Matheison Chemical Corp today and discussed the various disclosures I had made over the past year and several months. In addition, I informed him of the allowance (indicated allowance) of claims in my application..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 15, Page 275
+Tags: confidentiality, design, ip, joining, witnessing
+
+## §190 — Jerome H. Lemelson Invention Notebook, Volume 10, Page 97
+> "presented hereafter may suffice to further describe the structure of Figs. 1 and 2 and its method of manufacture. May 7, 1961 I called Mr R.C. Lorentz, Plant Manager of Natvar Corporation, of Woodbridge, N.J. to set up an appointment to see him (tomorrow) to..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 10, Page 97
+Tags: confidentiality, design, disclosure, ip, witnessing
+
+## §191 — Jerome H. Lemelson Invention Notebook, Volume 15, Page 81
+> "Notation 12 defines a lip or shelf extending normal to the major surface of the end wall 11 at the end thereof and provides means for receiving and supporting the other end portion 26 of the molding. A slot 12’ in shelf 12 receives and retains a tab 27 molded..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 15, Page 81
+Tags: confidentiality, design, manufacturing, witnessing
+
+## §192 — Jerome H. Lemelson Invention Notebook, Volume A, Page 21
+> "formed by passing the laminate 10 thru the suitable rotating heated dies Which permanently deform both the foam plastic layer and covering of PVF 14' fusing the material of 14 as at 14a into a more dense framed or solid mass to retain the irregular shape. The..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume A, Page 21
+Tags: design, ip, joining, manufacturing
+
+## §193 — Jerome H. Lemelson Invention Notebook, Volume A, Page 44
+> "back of a cereal box to be cut out and applied to face with pressure sensitive adhesive such as Double Face pressure sensitive transfer film, (PT.5501) by Angier Adhesives, Dir. of Interchemical Company of Cambridge, Mass. A sample of which (cut up into 1/4 x..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume A, Page 44
+Tags: collaboration, confidentiality, design, manufacturing, prototype, witnessing
+
+## §194 — Jerome H. Lemelson Invention Notebook, Volume A, Page 125
+> "Roll bond metal sheet portion is inflated while glass is still in molten condition. After glass with R-bond encased therein is cooled an etchant liquid is flowed into inflated metal strip therein to etch away metal leaving only glass in the tubular portion of..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume A, Page 125
+Tags: conception, confidentiality, design, ip, joining, witnessing
+
+## §195 — Jerome H. Lemelson Invention Notebook, Volume 16, Page 24
+> "The following games and toys using a record player of the type disclosed on pages 30 to this point are conceived and will be presented to Transogram Ive, Pressman Toy Corp, Hassenfeld Bros, etc in confidence with the understanding that a royalty will be paid..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 16, Page 24
+Tags: conception, confidentiality, disclosure, manufacturing, witnessing
+
+## §196 — Jerome H. Lemelson Invention Notebook, Volume 2, Page 70
+> "Page 118 March 2-52 any erasable marks it contacts This hase the advantage over the conventional electrical eraser in that it may be positioned over the work and the pressure controlled. on the work. Note: The eraser may also be rotated. Jerome Lemelson March..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 2, Page 70
+Tags: design, disclosure, ip, prototype, witnessing
+
+## §197 — Jerome H. Lemelson Invention Notebook, Volume 2, Page 48
+> "Oct 28 - 51 own words, is now developing without my knowledge prior to this. In addition, Baggott has been stalling me off regarding the acceptance of a toy thermometer and doll {{strikethrough}}drawing{{strikethrough}} re pp.50, 54, 70) which I gave him..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 2, Page 48
+Tags: collaboration, design, ip, witnessing
+
+## §198 — Jerome H. Lemelson Invention Notebook, Volume 2, Page 76
+> "April 10th with Mr. Morris Newman of Premier Products Company at his lawyers' office in Manhatten was not kept by Mr. Newman who, it appears, never even contacted his attorney (re: p. 114) we were to discuss terms of the agreement regarding my baloon jet..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume 2, Page 76
+Tags: conception, ip, witnessing
+
+## §199 — Jerome H. Lemelson Invention Notebook, Volume A, Page 65
+> "the formation of an image which appears to move with the angle at which the human eye views it without the intermittent effect now ~~ of~~ inherent in displays of this type (re Vari-View displays made by Pictorial Productions, Inc. Jerome Lemelson Jan. 28,..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume A, Page 65
+Tags: conception, confidentiality, design, ip, witnessing
+
+## §200 — Jerome H. Lemelson Invention Notebook, Volume A, Page 58
+> "Jan. 25, 1960 The magnetic tool racks left with Bob Mullens (of Cunningham and Walsh, 260 Madison Ave, 11th Floor.) today consisted of a piece of Masonite pegboard, 17 13/16 x 23 13x16, 4 spacers and woodscrews, 5 Index ceramic magnets 11" x 1" x 1/4 with..."
+— Source: LEMELSON_NOTEBOOKS_EXTRACTED_v1.md, Jerome H. Lemelson Invention Notebook, Volume A, Page 58
+Tags: conception, confidentiality, design, ip, prototype, witnessing

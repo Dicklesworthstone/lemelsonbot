@@ -24,8 +24,8 @@ if not quote_bank.exists():
 else:
     text = quote_bank.read_text(encoding="utf-8")
     anchors = re.findall(r"^## §(\d+) — ", text, flags=re.M)
-    if len(anchors) < 100:
-        errors.append(f"quote bank must have >=100 entries, found {len(anchors)}")
+    if len(anchors) < 200:
+        errors.append(f"quote bank must have >=200 entries, found {len(anchors)}")
     # Ensure sequential numbering starts at 1
     nums = [int(a) for a in anchors]
     if nums and nums[0] != 1:
