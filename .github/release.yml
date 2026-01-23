@@ -1,0 +1,27 @@
+changelog:
+  exclude:
+    labels:
+      - "skip-release-notes"
+  categories:
+    - title: "Corpus Updates"
+      labels:
+        - "corpus"
+        - "data"
+        - "extraction"
+    - title: "Methodology"
+      labels:
+        - "methodology"
+        - "kernel"
+        - "operators"
+        - "specs"
+    - title: "CI and Automation"
+      labels:
+        - "ci"
+        - "build"
+        - "release"
+    - title: "Docs"
+      labels:
+        - "docs"
+    - title: "Other"
+      labels:
+        - "*"
