@@ -1,0 +1,48 @@
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Package artifacts
+        run: |
+          version="${GITHUB_REF_NAME}"
+          mkdir -p dist
+          tar -czf "dist/lemelsonbot-${version}.tar.gz" \
+            LEMELSON_NOTEBOOKS_EXTRACTED_v1.md \
+            corpus/specs \
+            specs \
+            artifacts \
+            scripts \
+            README.md \
+            docs/lemelsonbot_hero.webp
+
+      - name: Generate checksums
+        run: |
+          cd dist
+          sha256sum *.tar.gz > SHA256SUMS.txt
+
+      - name: Create GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/*.tar.gz
+            dist/SHA256SUMS.txt
