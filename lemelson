@@ -1,0 +1,153 @@
+#!/usr/bin/env python3
+"""
+lemelson - minimal CLI for Lemelsonbot workflows.
+"""
+
+from __future__ import annotations
+
+import argparse
+import json
+import os
+import shutil
+import subprocess
+import sys
+from pathlib import Path
+
+
+ROOT = Path(__file__).resolve().parent
+
+
+def run_cmd(argv: list[str]) -> int:
+    return subprocess.run(argv, cwd=ROOT, check=False).returncode
+
+
+def cmd_validate(_: argparse.Namespace) -> int:
+    scripts = [
+        "scripts/validate-corpus.py",
+        "scripts/validate-kernel.py",
+        "scripts/validate-operators.py",
+        "scripts/validate-kickoffs.py",
+    ]
+    failures = 0
+    for script in scripts:
+        rc = run_cmd([sys.executable, str(ROOT / script)])
+        if rc != 0:
+            failures += 1
+    return 0 if failures == 0 else 1
+
+
+def cmd_extract_kernel(args: argparse.Namespace) -> int:
+    source = args.input or "corpus/specs/triangulated_kernel.md"
+    target = args.output or "artifacts/triangulated_kernel.md"
+    return run_cmd(
+        [
+            sys.executable,
+            str(ROOT / "scripts/extract-kernel.py"),
+            "--in",
+            source,
+            "--out",
+            target,
+        ]
+    )
+
+
+def cmd_kickoff_template(_: argparse.Namespace) -> int:
+    template = """# Kickoff Pack: [Project Name]
+
+Session ID: IS-YYYYMMDD-[slug]
+Target repo: /data/projects/[project]
+
+## Invention Thread (bite point)
+[One sentence invention statement + use case]
+
+## Claim Map (top 3 elements)
+1. [Claim element]
+2. [Claim element]
+3. [Claim element]
+
+## Variant Slate (2-5)
+- [Variant 1]
+- [Variant 2]
+
+## Manufacturing & Feasibility
+- Materials:
+- Process:
+- Joining/assembly:
+
+## Tests & Samples
+- T1: [Test] (purpose + outcome)
+
+## Disclosure & Partner Log
+- D1: [Partner + date + terms + follow-up]
+
+## Assumptions
+- A1: [Assumption] (mark [inference] if needed)
+
+## Adversarial Critique
+- C1: [What breaks the claim?]
+
+## Excerpt (Anchors)
+Tags: record-of-conception, manufacturing-feasibility, disclosure-log
+Quotes:
+- "..." (§n)
+- "..." (§m)
+"""
+    sys.stdout.write(template)
+    return 0
+
+
+def cmd_doctor(args: argparse.Namespace) -> int:
+    tools = ["python3", "rg", "git", "gh"]
+    status = {}
+    for tool in tools:
+        status[tool] = "ok" if shutil.which(tool) else "missing"
+    payload = {
+        "root": str(ROOT),
+        "tools": status,
+        "ok": all(v == "ok" for v in status.values()),
+    }
+    if args.json:
+        sys.stdout.write(json.dumps(payload, indent=2) + "\n")
+    else:
+        for tool, state in status.items():
+            sys.stdout.write(f"{tool}: {state}\n")
+    return 0 if payload["ok"] else 1
+
+
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(prog="lemelson")
+    sub = parser.add_subparsers(dest="cmd", required=True)
+
+    sub.add_parser("validate", help="run validation scripts")
+
+    extract = sub.add_parser("extract-kernel", help="extract kernel to artifact")
+    extract.add_argument("--input", help="kernel source path")
+    extract.add_argument("--output", help="kernel output path")
+
+    sub.add_parser("kickoff-template", help="print a kickoff pack template")
+
+    doctor = sub.add_parser("doctor", help="check toolchain")
+    doctor.add_argument("--json", action="store_true", help="emit JSON status")
+
+    return parser
+
+
+def main() -> int:
+    parser = build_parser()
+    args = parser.parse_args()
+
+    if args.cmd == "validate":
+        return cmd_validate(args)
+    if args.cmd == "extract-kernel":
+        return cmd_extract_kernel(args)
+    if args.cmd == "kickoff-template":
+        return cmd_kickoff_template(args)
+    if args.cmd == "doctor":
+        return cmd_doctor(args)
+
+    parser.print_help()
+    return 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
